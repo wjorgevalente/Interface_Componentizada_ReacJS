@@ -1,4 +1,4 @@
-# Muito felzi com esse aprenzidado adquirido no BootCamp
+# Muito feliz com o aprenzidado adquirido no BootCamp da DIO.
 
 # Nesse projeto foram feitas praticas com ReactJS com objetivo de tornar o projeto componentizado ,
 faciliando assim futuras manutenções e se tornando claro para que outros devs entedam o que está
